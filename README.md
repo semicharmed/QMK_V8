@@ -10,11 +10,20 @@ Custom QMK Keymap for Keychron V8 (Alice Layout) ANSI Encoder
 
 ![win_base](assets/win_base.png)
 
+Largely basic Windows layout with two key (ha ha) modifications:
+
+- **Tab** switches to the Numpad Layer (_FN2) when held down, returns Tab keystroke on tap
+- **Capslock** switches to the Function Layer (_FN1) when held down, toggles Caps Lock on tap
+- The **fn1** and **fn2** keys between the spacebars switch to their respective layers when held (useful for one-handed operation)
 
 
 ## Function Layer (_FN1)
 
 ![_FN1](assets/_FN1.png)
+
+- Provides access to Function Keys F1 to F12 on the number row
+- Recreates old-school numpad navigation cluster (like on the first keyboards I used) at right-hand home for minimal roaming (and nostalgia)
+- Dedicated **Del** key switches to Gaming Layer (_FN3)
 
 ## Numlock Layer (_FN2)
 
