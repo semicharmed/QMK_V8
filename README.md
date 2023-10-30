@@ -49,3 +49,9 @@ This is pretty much why I needed per layer RGB
 4. [Compile](https://docs.qmk.fm/#/newbs_building_firmware)
 5. Flash with [QMK Toolbox](https://github.com/qmk/qmk_toolbox) as per [Keychron instructions](https://www.keychron.com/blogs/archived/how-to-factory-reset-or-flash-your-qmk-via-enabled-keychron-v8-keyboard)
 
+### To Do
+
+- RGB controls (might come in handy? have absolutely no use for them right now)
+- Should probably have Scroll Lock and whatever else is missing on the Function/Navigation layer
+- Figure out how to get a nice Orange for the Numpad layer with these Keychron leds
+
