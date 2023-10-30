@@ -43,6 +43,7 @@ This is pretty much why I needed per layer RGB
 
 ### Instructions
 
+0. Contemplate risk
 1. Set up [QMK](https://docs.qmk.fm/#/newbs_getting_started)
 2. Copy **semicharmed** folder to \qmk_firmware\keyboards\keychron\v8\ansi_encoder\keymaps\
 3. Edit **keymap.c** to taste
