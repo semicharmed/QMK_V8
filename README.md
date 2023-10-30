@@ -13,7 +13,7 @@ Custom QMK Keymap for Keychron V8 (Alice Layout) ANSI Encoder
 Largely basic Windows layout with two key (ha ha) modifications:
 
 - **Tab** switches to the Numpad Layer (_FN2) when held down, returns Tab keystroke on tap
-- **Capslock** switches to the Function Layer (_FN1) when held down, toggles Caps Lock on tap
+- **Capslock** switches to the Function/Navigation Layer (_FN1) when held down, toggles Caps Lock on tap
 - The **fn1** and **fn2** keys between the spacebars switch to their respective layers when held (useful for one-handed operation)
 
 
@@ -44,7 +44,7 @@ This is pretty much why I needed per layer RGB
 ### Instructions
 
 1. Set up [QMK](https://docs.qmk.fm/#/newbs_getting_started)
-2. Copy **semicharmed** folder to **\qmk_firmware\keyboards\keychron\v8\ansi_encoder\keymaps\**
+2. Copy **semicharmed** folder to \qmk_firmware\keyboards\keychron\v8\ansi_encoder\keymaps\
 3. Edit **keymap.c** to taste
 4. [Compile](https://docs.qmk.fm/#/newbs_building_firmware)
 5. Flash with [QMK Toolbox](https://github.com/qmk/qmk_toolbox) as per [Keychron instructions](https://www.keychron.com/blogs/archived/how-to-factory-reset-or-flash-your-qmk-via-enabled-keychron-v8-keyboard)
